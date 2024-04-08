@@ -1,0 +1,3 @@
+[submodule "fp_multiplier_module"]
+	path = fp_multiplier_module
+	url = https://github.com/oluseye-akomolede/fp_multiplier_module.git
